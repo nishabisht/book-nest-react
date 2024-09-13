@@ -1,0 +1,73 @@
+/* Home.css */
+.container-fuild {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  height: 60vh;
+  opacity: 1 !important; /* Initially hidden */
+  background-color: rgba(26, 162, 212, 0.404);
+  font-size: 38px;
+  z-index: 1;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.carousel-inner {
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  height: 60vh;
+}
+
+.icon {
+  position: absolute;
+  left: 38%;
+  top: 34%;
+  color: rgba(26, 162, 212, 0.555) !important;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.699);
+  border: 4px solid rgba(255, 255, 255, 0.315);
+ 
+}
+
+.card{
+  position: relative;
+}
+.card-overlay {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  height: 11rem;
+  opacity: 1 !important;
+  background-color: rgba(26, 162, 212, 0.363);
+  font-size: 28px;
+  z-index: 1;
+  color: white;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: nowrap;
+}
+
+.card-overlay:hover {
+  background-color: rgba(26, 162, 212, 0.658);
+
+}
+.theme-border{
+  border: 1px solid rgb(96 187 219) !important;
+}

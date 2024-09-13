@@ -1,0 +1,10 @@
+.login {
+    background: rgb(37 67 153 / 48%);
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+#forms{
+    background-color: rgba(26, 162, 212, 0.404);
+    color:white;
+}
