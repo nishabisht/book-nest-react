@@ -42,7 +42,11 @@ const PublicNav = ({ menu }) => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item col">
-                <NavLink className="nav-link active" to="/" aria-current="page">
+                <NavLink
+                  className="nav-link active"
+                  to="/book-nest-react"
+                  aria-current="page"
+                >
                   // need to change path
                   {home}
                 </NavLink>
