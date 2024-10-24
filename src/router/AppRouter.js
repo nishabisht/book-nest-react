@@ -16,7 +16,7 @@ const AppRouter = () => {
     <>
       <Routes>
         {/* {public navigation Link} */}
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/book-nest-react" element={<Home />}></Route>
         <Route path="/login" element={<Login />}></Route>
         <Route path="/about" element={<About />}></Route>
 

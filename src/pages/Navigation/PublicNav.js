@@ -21,7 +21,7 @@ const PublicNav = ({ menu }) => {
     <React.Fragment>
       <nav className="navbar navbar-expand-lg navbar-light bg-light border shadow">
         <div className="container-fluid">
-          <NavLink className="d-flex navbar-brand ps-3" to="/">
+          <NavLink className="d-flex navbar-brand ps-3" to="/book-nest-react">
             <img
               src={`${process.env.PUBLIC_URL}/logo512.png`}
               alt="logo"
@@ -43,6 +43,7 @@ const PublicNav = ({ menu }) => {
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item col">
                 <NavLink className="nav-link active" to="/" aria-current="page">
+                  // need to change path
                   {home}
                 </NavLink>
               </li>
