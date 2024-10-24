@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a99e93fe.css",
-    "main.js": "/static/js/main.68db415b.js",
-    "static/js/453.d3453062.chunk.js": "/static/js/453.d3453062.chunk.js",
-    "static/media/bg-profile.png": "/static/media/bg-profile.5c0373be84975e295615.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.a99e93fe.css.map": "/static/css/main.a99e93fe.css.map",
-    "main.68db415b.js.map": "/static/js/main.68db415b.js.map",
-    "453.d3453062.chunk.js.map": "/static/js/453.d3453062.chunk.js.map"
+    "main.css": "/book-nest-react/static/css/main.5a9e542e.css",
+    "main.js": "/book-nest-react/static/js/main.eebbdcf7.js",
+    "static/js/453.d3453062.chunk.js": "/book-nest-react/static/js/453.d3453062.chunk.js",
+    "static/media/bg-profile.png": "/book-nest-react/static/media/bg-profile.5c0373be84975e295615.png",
+    "static/media/logo.svg": "/book-nest-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/book-nest-react/index.html",
+    "main.5a9e542e.css.map": "/book-nest-react/static/css/main.5a9e542e.css.map",
+    "main.eebbdcf7.js.map": "/book-nest-react/static/js/main.eebbdcf7.js.map",
+    "453.d3453062.chunk.js.map": "/book-nest-react/static/js/453.d3453062.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a99e93fe.css",
-    "static/js/main.68db415b.js"
+    "static/css/main.5a9e542e.css",
+    "static/js/main.eebbdcf7.js"
   ]
 }
